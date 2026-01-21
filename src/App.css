@@ -1,0 +1,9 @@
+.background{
+    background: url("public/background-pattern-desktop.svg");
+    height: 350px;
+    width: 100%;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

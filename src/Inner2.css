@@ -1,0 +1,9 @@
+.heading{
+    padding: 20px;
+}
+.heading > h1{
+    font-size: 45px;
+    font-family: "Work Sans", serif;
+    font-weight: 600;
+    font-style: normal;
+}
